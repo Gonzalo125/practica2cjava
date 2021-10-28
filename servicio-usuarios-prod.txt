@@ -1,0 +1,2 @@
+server.port=8283
+configuracion.texto=Configurando ambiente para produccion del microservicio usuarios

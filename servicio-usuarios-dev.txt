@@ -1,0 +1,2 @@
+server.port=8282
+configuracion.texto=Configurando ambiente para desarrollo de microservicio usuarios
